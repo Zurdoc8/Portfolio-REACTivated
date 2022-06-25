@@ -13,7 +13,7 @@ function Nav(pageSelected, setPageSelected) {
           <li ><a href='http://localhost:3000/'>Home</a></li>
           <li><Link to={"about"}>About</Link></li>
           <li><Link to={"contact"}>Contact Me</Link></li>
-          <li><Link to={"projects"}>My Projects</Link></li>
+          <li><Link to={"portfolio"}>My Portfolio</Link></li>
         </ul>
       </nav>
       </header>

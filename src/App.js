@@ -4,7 +4,7 @@ import './App.css';
 import Welcome from './components/Welcome';
 import Nav from './components/Nav';
 import About from './components/About';
-import Contact from './components/Contact';
+import ContactForm from './components/Contact';
 import Portfolio from './components/Portfolio'
 
 function App() {
@@ -21,7 +21,7 @@ function App() {
       <div>
         <Routes>
           <Route path='/about' element={<About />} />
-          <Route path='/contact' element={<Contact />} />
+          <Route path='/contact' element={<ContactForm />} />
           <Route path='/portfolio' element={<Portfolio />} />
         </Routes>
       </div>
