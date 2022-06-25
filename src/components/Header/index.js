@@ -4,6 +4,7 @@ import Nav from "../Nav";
 import About from "../About";
 import Portfolio from "../Portfolio";
 import Contact from "../Contact";
+import Resume from "../Resume";
 
 class Header extends Component {
     render() {
@@ -18,6 +19,7 @@ class Header extends Component {
                     <Route path="/about" component={About} />
                     <Route path="/portfolio" component={Portfolio} />
                     <Route path="/contact" component={Contact} />
+                    <Route path="/resume" component={Resume} />
                 </div>
             </HashRouter>
         );
