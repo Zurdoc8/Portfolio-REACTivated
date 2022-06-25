@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import { Route, Redirect, HashRouter } from "react-router-dom";
 import Nav from "../Nav";
 import About from "../About";
-import Portfolio from "../";
+import Portfolio from "../Portfolio";
 import Contact from "../Contact";
 
 class Header extends Component {

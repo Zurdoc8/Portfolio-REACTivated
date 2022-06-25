@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Global Coffee Shop",
+        "image": "image.png",
+        "github": "https://github.com/Jmaouchi/Coffee-Shop-",
+        "deploy": "https://coffee-from-the-world.herokuapp.com/login",
+        "topics": " Node.js, Express.js, Insomnia, mySQL, Sequelize, Handlebars "
+    },
+    {
+        "id": 2,
+        "name": "README Generator",
+        "image": "image.png",
+        "github": "https://github.com/Zurdoc8/readme-gen",
+        "deploy": "https://github.com/Zurdoc8/readme-gen",
+        "topics": "javaScript, jQuery, ES6, Node.js"
+    },
+    {
+        "id": 3,
+        "name": "Satellite Tracker",
+        "image": "https://user-images.githubusercontent.com/97048430/159814491-85a8689b-3de2-43a4-860c-adf042fc1b5b.png",
+        "github": "https://github.com/Zurdoc8/satellite_tracker1.0",
+        "deploy": "https://zurdoc8.github.io/satellite_tracker1.0/",
+        "topics": "Third Party APIs, Local Storage, HTML/CSS/javaScript"
+    },
+    {
+        "id": 4,
+        "name": "Run Buddy",
+        "image": "image.png",
+        "github": "https://github.com/Zurdoc8/run-buddy/",
+        "deploy": "https://zurdoc8.github.io/run-buddy/",
+        "topics": "HTML, CSS"
+    },
+    {
+        "id": 5,
+        "name": "Note Taker",
+        "image": "https://user-images.githubusercontent.com/97048430/164598665-764f2d48-5ff2-4f28-89ee-4f03576338da.png",
+        "github": "https://github.com/Zurdoc8/note-Taker",
+        "deploy": "https://note-taker8000.herokuapp.com",
+        "topics": "Express, javaScript, ES6, Node.js, CSS, HTML"
+    },
+    {
+        "id": 6,
+        "name": "Track My Moolah",
+        "image": "https://user-images.githubusercontent.com/97048430/174465006-14f1a50f-3bfe-4fdf-99fc-beb17a4f87ac.png",
+        "github": "https://github.com/Zurdoc8/Track-my-moolah",
+        "deploy": "https://morning-wave-20281.herokuapp.com",
+        "topics": "Node.js, javaScript, npm, Heroku, MongoDB, Mongoose, Express.js"
+    }
+]
