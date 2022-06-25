@@ -1,16 +1,33 @@
-import React from 'react';
-import Header from './components/Header';
-import Footer from './components/Footer';
-import "./App.css";
-// import 'bootstrap/dist/css/bootstrap.min.css';
+import React, { useState } from 'react';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import './App.css';
+import Welcome from './components/Welcome';
+import Nav from './components/Nav';
+import About from './components/About';
+import Contact from './components/Contact';
+import Portfolio from './components/Portfolio'
 
 function App() {
+  const [pageSelected, setPageSelected] = useState(false)
   return (
-    <div>
-      <Header />
-      <Footer />
-    </div>
-  );
-}
+    <Router>
+      {!pageSelected ?
+      (<>
+      <Welcome pageSelected={pageSelected} setPageSelected={setPageSelected}/>
+      </>
+      ):(
+        <Nav />
+      )}
+      <div>
+        <Routes>
+          <Route path='/about' element={<About />} />
+          <Route path='/contact' element={<Contact />} />
+          <Route path='/portfolio' element={<Portfolio />} />
+        </Routes>
+      </div>
+      </Router>
+    )
+  }
+
 
 export default App;
