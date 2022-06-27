@@ -1,7 +1,7 @@
 # Portfolio-REACTivater
 
 ## About
-  >This Budget tracker application was created with the avid traveller in mind. The one who likes to keep track of their budgets, so their trip doesn't end up being more costly than they expected. This application has been enhanced to allow it to be used even when there is not a strong internet connection or even in the abscence of one. Seamlessly keep track of your income and spending habits while on the go. 
+  >My Portfolio built with ReaCT
 
   ## Built with
   1. React
