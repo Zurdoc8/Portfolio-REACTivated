@@ -1,21 +1,21 @@
 import React from "react";
-import "../../index.css";
 
 function About() {
   return (
     <section className="container">
-      <h2 class="top-title">
+      <h2 className="top-title">
         {" "}
         Welcome! My Name is Andres Garza and I am a Full Stack Web Developer{" "}
       </h2>
       <hr></hr>
       <div>
-        <img
-          class="mb-5"
+        <img class="mb-5"
           id="about"
-          src="https://media.istockphoto.com/photos/programming-code-abstract-technology-background-of-software-developer-picture-id1224500457?k=20&m=1224500457&s=612x612&w=0&h=LpjdY6okVWiKh8LT_LqcXz53kWaXVf47ThXKwMcCoHI="
+          src="https://user-images.githubusercontent.com/97048430/170190977-96bf83a1-b8bc-40e3-8f37-b8cd66f9bfb2.JPG"
           alt="Let me introduce myself"
         />
+        </div>
+        <div>
         <p>
           Immensly proud to call myself a FULL STACK WEB DEVEOLPER. This journey
           began 5 months ago and I am amazed at how far I've come. I have

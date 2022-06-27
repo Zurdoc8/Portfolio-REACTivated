@@ -2,6 +2,7 @@ import React from 'react';
 import ProjectCards from '../Project';
 import portfolio from '../../portfolio.json';
 
+
 function Wrapper(props) {
     return <div className='wrapper'>{props.children}</div>;
 }

@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Global Coffee Shop",
-        "image": "image.png",
+        "image": "https://user-images.githubusercontent.com/97048430/175834184-e8f11c24-9796-49d3-bc47-fc961b502b80.png",
         "github": "https://github.com/Jmaouchi/Coffee-Shop-",
         "deploy": "https://coffee-from-the-world.herokuapp.com/login",
         "topics": " Node.js, Express.js, Insomnia, mySQL, Sequelize, Handlebars "
@@ -10,7 +10,7 @@
     {
         "id": 2,
         "name": "README Generator",
-        "image": "image.png",
+        "image": "https://user-images.githubusercontent.com/97048430/175834078-fc525df8-fb6a-4895-a820-53fe8cce0d46.png",
         "github": "https://github.com/Zurdoc8/readme-gen",
         "deploy": "https://github.com/Zurdoc8/readme-gen",
         "topics": "javaScript, jQuery, ES6, Node.js"
@@ -26,7 +26,7 @@
     {
         "id": 4,
         "name": "Run Buddy",
-        "image": "image.png",
+        "image": "https://user-images.githubusercontent.com/97048430/175834137-35f6c413-9f90-4cec-9823-f184f9d60f91.png",
         "github": "https://github.com/Zurdoc8/run-buddy/",
         "deploy": "https://zurdoc8.github.io/run-buddy/",
         "topics": "HTML, CSS"
