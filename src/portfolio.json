@@ -46,5 +46,14 @@
         "github": "https://github.com/Zurdoc8/Track-my-moolah",
         "deploy": "https://morning-wave-20281.herokuapp.com",
         "topics": "Node.js, javaScript, npm, Heroku, MongoDB, Mongoose, Express.js"
+    },
+    {
+        "id": 6,
+        "name": "UpLoL",
+        "image": "https://user-images.githubusercontent.com/97048430/178854014-9ac1ed12-e6a4-41f0-9f70-7ec023249917.png",
+        "github": "https://github.com/kevin-foreman/UpLoL",
+        "deploy": " https://uplol.herokuapp.com/",
+        "topics": "MERN Stack"
     }
+
 ]
